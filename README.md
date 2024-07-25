@@ -1,4 +1,4 @@
-# KING-COUNTY-WASHINGTON-HOUSE-SALES-DASHBOARD
+## KING-COUNTY-WASHINGTON-HOUSE-SALES-DASHBOARD
 This Tableau dashboard provides a comprehensive analysis of house sales in King County, Washington, offering insights into various aspects of the housing market. Designed to cater to real estate agents, buyers, sellers, and market analysts, this interactive tool delivers a deep dive into the pricing, distribution, and characteristics of houses sold in the area. Dashboard Features Average House Sales Price Line Chart Track the fluctuation of house prices over time with our line chart visualization. This feature allows users to identify trends in the housing market, helping to make informed decisions based on historical data.
 
 ## What We See In This Tableau Dashboard ?
